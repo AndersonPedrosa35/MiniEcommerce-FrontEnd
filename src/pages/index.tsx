@@ -14,6 +14,9 @@ export default function Home() {
         className={`min-h-screen p-2 sm:p-4 lg:p-6 ${inter.className}`}
       >
         <ListItems />
+          <div>
+            <Minicart />
+          </div>
       </main>
     </MiniCartProvider>
   )
