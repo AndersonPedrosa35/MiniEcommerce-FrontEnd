@@ -1,0 +1,22 @@
+{
+  "result": [
+    {
+      "_id": "61a40c56d0e182e459c000de",
+      "title": "Smart TV 55\" Crystal UHD Samsung 4k 55AU8000 Painel Dynamic Crystal Color Design Slim Tela Sem Limites",
+      "describe": "Com a TV Samsung, você aproveita não apenas da melhor qualidade de imagem, mas também curte no conforto da sua casa diferentes atividades como: acesso a canais gratuitos, videoconferências na tela grande, acesso remoto ao seu PC e conectividade entre aparelhos.",
+      "file": "https://images-americanas.b2w.io/produtos/01/00/img/3069509/7/3069509753_1SZ.jpg",
+      "category": "Televisores",
+      "price": 3.499,
+      "promotion": 3.324
+    },
+    {
+      "_id": "61a40ecdd0e182e459c000df",
+      "title": "Smart TV LED 55” LG 55UP7550 4K UHD 55UP7550 Wi-Fi Bluetooth HDR Inteligência Artificial ThinQ Smart Magic Google Alexa",
+      "describe": "Smart Magic Remote Tecnologia que transforma o controle em um mouse na sua TV, conectando diversos serviços e atalhos para seus canais favoritos.",
+      "file": "https://images-americanas.b2w.io/produtos/01/00/img/3280464/7/3280464781_1GG.jpg",
+      "category": "Televisores",
+      "price": 2.799,
+      "promotion": 2.599
+    }
+  ]
+}
