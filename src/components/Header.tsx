@@ -19,7 +19,7 @@ export default function Header() {
         LINK
       </Link>
       <button type='button' className='p-4' onClick={() => setIsOpen(true)}>
-        MENU
+        MINICART
       </button>
     </div>
   )
