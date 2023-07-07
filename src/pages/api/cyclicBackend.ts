@@ -1,4 +1,4 @@
-import { CreateProductItem, ProductItem } from '@/components/typings';
+import { CreateProductItem } from '@/components/typings';
 import axios from 'axios';
 
 interface CreateProduct extends CreateProductItem {
@@ -7,7 +7,7 @@ interface CreateProduct extends CreateProductItem {
 }
 
 const api = axios.create({
-  baseURL: 'http://localhost:3001'
+  baseURL: 'https://spotless-cod-houndstooth.cyclic.app/'
 });
 
 export const findAll = async () => api.get('/products')
